@@ -13,6 +13,7 @@
 ---
 
 ## 💫 About Me
+
 - 🔭 I’m currently building: an AI-powered, adaptive mentorship platform.
 - 🎥 I’m creating: technical content on mastering AI agents + LLM workflows for real coding productivity.
 - 👯 I’m open to collaborating on: multi-agent orchestration, autonomous decision-making, and stateful workflows.
@@ -21,7 +22,29 @@
 - 💬 Ask me about: AI-assisted development in modern web stacks.
 - ⚡ Fun fact: I live by “pink-coded development” — my whole workstation is pink.
 
+## 📌 Pinned Repositories
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/sesyacodez/openclaw_lmstudio-config"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sesyacodez&repo=openclaw_lmstudio-config&theme=default&hide_border=true&description_lines=2" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/sesyacodez/docuery"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sesyacodez&repo=docuery&theme=default&hide_border=true&description_lines=2" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/sesyacodez/midnight"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sesyacodez&repo=midnight&theme=default&hide_border=true&description_lines=2" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/sesyacodez/professional-cleaning-service"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sesyacodez&repo=professional-cleaning-service&theme=default&hide_border=true&description_lines=2" /></a>
+    </td>
+  </tr>
+</table>
+
 ## 💻 Tech Stack
+
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -45,14 +68,24 @@
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-111827?style=for-the-badge)
 
 ## 📊 GitHub Stats
-![Stefaniia's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sesyacodez&show_icons=true&theme=default&hide_border=true&cache_seconds=86400)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sesyacodez&theme=default&hide_border=true)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sesyacodez&theme=default)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sesyacodez&show_icons=true&theme=default&hide_border=true&cache_seconds=86400&hide=issues,prs" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=sesyacodez&theme=default&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sesyacodez&theme=default" />
+    </td>
+  </tr>
+</table>
 
 ---
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
