@@ -53,10 +53,6 @@
 
 ---
 
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=sesyacodez&style=for-the-badge&color=ff69b4" alt="Profile views" />
-</p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
