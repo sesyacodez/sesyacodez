@@ -20,8 +20,8 @@
 - 🤝 I’d love help with: sharpening backend architecture skills while moving from frontend to full-stack AI apps.
 - 🌱 I’m currently learning: scalable backend architecture for LLM-integrated systems and robust agent state management.
 - 💬 Ask me about: AI-assisted development in modern web stacks.
-- ⚡ Fun fact: I live by “pink-coded development” — my whole workstation is pink.
-
+- ⚡ Fun fact: My whole setup is pink and I wouldn't have it any other way.
+  
 ## 📌 Pinned Repositories
 
 <table align="center">
